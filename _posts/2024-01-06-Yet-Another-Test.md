@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: Prueba de test HTB
 published: true
 ---
 
@@ -7,7 +7,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+# Esto es un prueba de lo que salga
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -37,7 +37,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-![alt text](image-2.png)
+
 #### [](#header-4)Header 4
 
 *   This is an unordered list following a header.

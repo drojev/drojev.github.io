@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Etiquetas"
+---
+
+<h1>Etiquetas</h1>
+<ul>
+  {% for tag in site.tags %}
+    <li><a href="/tag/{{ tag[0] }}">{{ tag[0] }}</a></li>
+  {% endfor %}
+</ul>

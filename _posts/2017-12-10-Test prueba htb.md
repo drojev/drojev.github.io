@@ -1,12 +1,18 @@
 ---
 title: Another Sample Page
+layout: post
 published: true
+tags: [programación, jekyll, tutorial]
 ---
+
+![alt text](image.png)
+
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](another-page).
-
+![alt text](image-1.png)
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -37,7 +43,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
 #### [](#header-4)Header 4
 
 *   This is an unordered list following a header.
@@ -115,8 +120,14 @@ end
 <dd>Green</dd>
 </dl>
 
+![Descripción de la imagen]({{ site.baseurl }}/assets/images/tu-imagen.jpg)
+![alt text](image.png)
+
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+
+
+
 ```
 
 ```
