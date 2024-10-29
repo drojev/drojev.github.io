@@ -15,3 +15,6 @@ Aquí hay una imagen:
 ![Descripción de la imagen]({{ site.baseurl }}/assets/images/image.png)
 
 ![alt text](image-1.png)
+
+
+![Descripción de la imagen]({{/}}/assets/images/test.png)
