@@ -10,7 +10,7 @@ date: 2024-10-29 01:38:00 -0000
 
 ## Introducción
 
-En este tutorial, aprenderás a crear un laboratorio de ethical hacking utilizando VirtualBox. Este entorno te permitirá practicar habilidades de ciberseguridad de manera segura.
+En este tutorial, (huevo de pascua) aprenderás a crear un laboratorio de ethical hacking utilizando VirtualBox. Este entorno te permitirá practicar habilidades de ciberseguridad de manera segura.
 
 ## Topología del Laboratorio
 
